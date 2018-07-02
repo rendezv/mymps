@@ -31,6 +31,7 @@ import org.snmp4j.util.TableUtils;
 // http://www.snmp4j.org/doc/org/snmp4j/Snmp.html
 public class SimpleSnmpClient {
 	
+	
 	private String address;
 	private Snmp snmp;	
 	
